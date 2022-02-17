@@ -1,0 +1,48 @@
+/* CSS - España */
+
+
+body {
+
+    background-color:rgb(193,193,193);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(183,0,21);
+}
+
+li {
+
+    float: left;
+}
+
+li a {
+
+    display: block;
+    color: rgb(253,185,0);
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+
+    background-color: rgb(16,112,80);
+    color:rgb(254,206,122);
+}
+
+.img1 {
+
+    	float: right;
+	border: 1px solid black;
+	margin: 25px ;
+}
+
+.clearfix {
+
+    overflow: auto;
+}
